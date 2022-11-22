@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "611343253052",
+    "firebase_url": "https://quanlycacloaica-default-rtdb.firebaseio.com",
+    "project_id": "quanlycacloaica",
+    "storage_bucket": "quanlycacloaica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611343253052:android:37e36c5af23de5fe078d39",
+        "android_client_info": {
+          "package_name": "com.example.bon.nguyenductin_312"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611343253052-9apinhkb0ggoli9lht9i1k4ordck9opf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBl--nYCmogvJVBFsrFRLMDK4iTO6uUNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611343253052-9apinhkb0ggoli9lht9i1k4ordck9opf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611343253052:android:d88bedab5d207f51078d39",
+        "android_client_info": {
+          "package_name": "com.example.bon.quanlyca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611343253052-9apinhkb0ggoli9lht9i1k4ordck9opf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBl--nYCmogvJVBFsrFRLMDK4iTO6uUNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611343253052-9apinhkb0ggoli9lht9i1k4ordck9opf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
